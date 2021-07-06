@@ -1,11 +1,16 @@
 #  **Discord Noir**
-![Discord Noir Logo](https://raw.githubusercontent.com/4n4hits/DiscordNoir/main/DNLogo.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/4n4hits/DiscordNoir/main/unknown.png" />
+</p>
 
 *Discord Noir* is a **Dark** and **Simple** Discord Theme.
 
 ⚠️**WORK IN PROGRESS**⚠️
 
-![Discord Noir Banner](https://raw.githubusercontent.com/4n4hits/DiscordNoir/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/4n4hits/DiscordNoir/main/banner.png" />
+</p>
 
 # *Discord Noir* uses **snippets** and **Theme Addons** from other Developers
 
