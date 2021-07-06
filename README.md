@@ -1,7 +1,7 @@
 #  **Discord Noir**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4n4hits/DiscordNoir/main/unknownn.png" />
+  <img src="https://raw.githubusercontent.com/4n4hits/DiscordNoir/main/logo.png" />
 </p>
 
 *Discord Noir* is a **Dark** and **Simple** Discord Theme.
