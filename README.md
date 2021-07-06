@@ -12,9 +12,9 @@
   <img src="https://raw.githubusercontent.com/4n4hits/DiscordNoir/main/banner.png" />
 </p>
 
-# *Discord Noir* uses **snippets** and **Theme Addons** from other Developers
+# **Credits**
 
-**List:**
+*Discord Noir* uses **snippets** and **Theme Addons** from other Developers
 
 [**Settings Icons**](https://github.com/snappercord/Settings-Icons) by [*Snapperito*](https://github.com/snapperito)
 
