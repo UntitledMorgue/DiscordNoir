@@ -14,4 +14,4 @@
 
 [**Theme Warnings**](https://github.com/Snippets-For-Discord/theme-warnings) by [*Snapperito*](https://github.com/Snapperito)
 
-[**Discolored**](https://github.com/NY4I/discolored); by [*Nyria*](https://github.com/NYRI4);
+[**Discolored**](https://github.com/NY4I/discolored) by [*Nyria*](https://github.com/NYRI4)
