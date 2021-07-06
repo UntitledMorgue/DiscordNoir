@@ -1,4 +1,5 @@
-#  ![Discord Noir Logo](https://raw.githubusercontent.com/4n4hits/DiscordNoir/main/DNLogo.png)
+#  **Discord Noir**
+![Discord Noir Logo](https://raw.githubusercontent.com/4n4hits/DiscordNoir/main/DNLogo.png)
 
 *Discord Noir* is a **Dark** and **Simple** Discord Theme.
 
